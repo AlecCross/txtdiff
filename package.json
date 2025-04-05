@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-offline-pwa-workbox-custom-sw-template",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.2.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "workbox-webpack-plugin": "^7.3.0"
+  }
+}
